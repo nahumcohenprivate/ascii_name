@@ -221,7 +221,7 @@ def colorize(text, color_code):
 
 def main():
     if len(sys.argv) < 2:
-        name = "Nahum Cohen"
+        name = "Hello there"
     else:
         name = " ".join(sys.argv[1:])
 
